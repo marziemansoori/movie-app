@@ -11,6 +11,8 @@ import java.util.List;
 @NoArgsConstructor
 public class UserRating {
 
-    private List<Rating> userRating;
+    private String userId;
+
+    private List<Rating> ratings;
 
 }

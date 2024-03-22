@@ -1,6 +1,5 @@
 package org.example.movieinfoservice.entities;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,11 +9,10 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-public class Movie {
+public class MovieSummary {
 
     private String id;
+    private String title;
+    private String overview;
 
-    private String name;
-
-    private String description;
 }

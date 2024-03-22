@@ -28,10 +28,9 @@ public class MovieCatalogController {
 
        UserRating ratings = restTemplate.getForObject("http://movie-rating-data-service/ratings/users/" + userId, UserRating.class);
 
-        return ratings.getUserRating().stream()
+        return ratings.getRatings().stream()
                 .map(rating -> {
                     Movie movie = restTemplate.getForObject("http://movie-info-service/movies/" + rating.getMovieId(), Movie.class);
-
                     return new CatalogItem(movie.getName(), "Test description", rating.getRating());
                 })
                 .collect(Collectors.toList());
