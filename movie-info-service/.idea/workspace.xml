@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c6980cb-7a2a-4a11-b69a-aafcad80fa96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/UserRating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/entitites/Rating.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-rating-data-service/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movie-rating-data-service/src/main/java/org/example/movieratingdataservice/entities/UserRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-rating-data-service/src/main/java/org/example/movieratingdataservice/controllers/RatingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-rating-data-service/src/main/java/org/example/movieratingdataservice/controllers/RatingsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-rating-data-service/target/classes/org/example/movieratingdataservice/controllers/RatingsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-rating-data-service/target/classes/org/example/movieratingdataservice/controllers/RatingsController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.2/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2e2R9y1iGDn4NNDeUQMQ9Ic6Yso" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.MovieInfoServiceApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/marziemansoori/Documents/Java/movie-app/movie-info-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="MovieInfoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="movie-info-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.movieinfoservice.MovieInfoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c6980cb-7a2a-4a11-b69a-aafcad80fa96" name="Changes" comment="" />
+      <created>1711100539186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711100539186</updated>
+      <workItem from="1711100540224" duration="553000" />
+      <workItem from="1711101884766" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

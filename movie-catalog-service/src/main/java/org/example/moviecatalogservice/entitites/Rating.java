@@ -1,5 +1,12 @@
-package org.example.movieratingdataservice.entities;
+package org.example.moviecatalogservice.entitites;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Setter
+@Getter
+@NoArgsConstructor
 public class Rating {
 
     private String movieId;
@@ -11,19 +18,4 @@ public class Rating {
         this.rating = rating;
     }
 
-    public String getMovieId() {
-        return movieId;
-    }
-
-    public int getRating() {
-        return rating;
-    }
-
-    public void setMovieId(String movieId) {
-        this.movieId = movieId;
-    }
-
-    public void setRating(int rating) {
-        this.rating = rating;
-    }
 }

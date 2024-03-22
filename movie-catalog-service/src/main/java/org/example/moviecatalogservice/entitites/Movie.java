@@ -1,5 +1,12 @@
-package org.example.movieinfoservice.entities;
+package org.example.moviecatalogservice.entitites;
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Setter
+@Getter
+@NoArgsConstructor
 public class Movie {
 
     private String id;
@@ -11,19 +18,4 @@ public class Movie {
         this.name = name;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 }
