@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55a511ac-0b9e-428f-aa9e-7e65673a4887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/Rating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/entitites/UserRating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/entitites/Rating.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/movieratingdataservice/entities/UserRating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-info-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-info-service/src/main/java/org/example/movieinfoservice/MovieInfoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/src/main/java/org/example/movieinfoservice/MovieInfoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-info-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-info-service/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/movieratingdataservice/controllers/RatingsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movieratingdataservice/controllers/RatingsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/movieratingdataservice/controllers/RatingsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/movieratingdataservice/controllers/RatingsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-info-service/target/classes/org/example/movieinfoservice/MovieInfoServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/target/classes/org/example/movieinfoservice/MovieInfoServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/movieratingdataservice/MovieRatingDataServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/movieratingdataservice/MovieRatingDataServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/movieratingdataservice/MovieRatingDataServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/movieratingdataservice/MovieRatingDataServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-discovery/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711101088935</updated>
-      <workItem from="1711101090005" duration="2269000" />
+      <workItem from="1711101090005" duration="3549000" />
     </task>
     <servers />
   </component>
