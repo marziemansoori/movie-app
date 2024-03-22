@@ -1,0 +1,3 @@
+org/example/moviecatalogservice/MovieCatalogServiceApplication.class
+org/example/moviecatalogservice/controllers/MovieCatalogController.class
+org/example/moviecatalogservice/entitites/CatalogItem.class
