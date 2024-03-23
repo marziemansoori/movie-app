@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="55a511ac-0b9e-428f-aa9e-7e65673a4887" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
