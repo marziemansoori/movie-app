@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: movie-catalog-service
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8762/eureka/
+server:
+  port: 8081
+
+  management:
+    endpoints.web.exposure.include: health
+    endpoint.health.show-details: always
+    health.circuitbreakers.enabled: true
+
+  resilience4j.circuitbreaker:
+    configs:
+      getCatalog:
+        registerHealthIndicator: true
+        slidingWindowSize: 10
+        minimumNumberOfCalls: 5
+        permittedNumberOfCallsInHalfOpenState: 3
+        automaticTransitionFromOpenToHalfOpenEnabled: true
+        waitDurationInOpenState: 5s
+        failureRateThreshold: 50
+        eventConsumerBufferSize: 10

@@ -1,6 +1,7 @@
 package org.example.moviecatalogservice.controllers;
 
 
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import org.example.moviecatalogservice.entitites.CatalogItem;
 import org.example.moviecatalogservice.entitites.Movie;
 import org.example.moviecatalogservice.entitites.UserRating;
@@ -23,6 +24,7 @@ public class MovieCatalogController {
     }
 
     @RequestMapping("/{userId}")
+    @CircuitBreaker(name="getCatalog", fallbackMethod = "getCatalogFallback")
     public List<CatalogItem> getCatalog(@PathVariable("userId") String userId) {
 
 
@@ -34,5 +36,9 @@ public class MovieCatalogController {
                     return new CatalogItem(movie.getName(), "Test description", rating.getRating());
                 })
                 .collect(Collectors.toList());
+    }
+
+    public String getCatalogFallback(Throwable throwable) {
+        return "Default response";
     }
 }

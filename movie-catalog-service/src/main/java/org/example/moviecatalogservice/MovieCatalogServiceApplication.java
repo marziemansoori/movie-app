@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
+import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.reactive.function.client.WebClient;
 
@@ -18,7 +19,9 @@ public class MovieCatalogServiceApplication {
     @Bean
     @LoadBalanced
     public RestTemplate getRestTemplate() {
-        return new RestTemplate();
+        HttpComponentsClientHttpRequestFactory httpComponentsClientHttpRequestFactory = new HttpComponentsClientHttpRequestFactory();
+        httpComponentsClientHttpRequestFactory.setConnectionRequestTimeout(3000);
+        return new RestTemplate(httpComponentsClientHttpRequestFactory);
     }
 
     @Bean
