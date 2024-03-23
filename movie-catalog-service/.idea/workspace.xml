@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afad89dd-50d5-4d96-afc7-c4f4386aac18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/io_github_resilience4j_spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/moviecatalogservice/MovieCatalogServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/moviecatalogservice/MovieCatalogServiceApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-info-service/.idea/workspace.xml" afterDir="false" />
@@ -104,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711100986872</updated>
       <workItem from="1711100987956" duration="7918000" />
-      <workItem from="1711114725889" duration="10529000" />
+      <workItem from="1711114725889" duration="15017000" />
     </task>
     <servers />
   </component>
