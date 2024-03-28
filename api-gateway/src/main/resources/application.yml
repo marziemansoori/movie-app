@@ -1,0 +1,23 @@
+server:
+  port: 8765
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+        - id: movie-info-routes
+          uri: ${MOVIE_INFO_URI:http://localhost:8082}
+          predicates:
+            - Path=/movies/*
+          filters:
+            - PrefixPath=/movies
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8762/eureka/

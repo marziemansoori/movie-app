@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c6980cb-7a2a-4a11-b69a-aafcad80fa96" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/java/org/example/moviecatalogservice/controllers/MovieCatalogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-catalog-service/target/classes/org/example/moviecatalogservice/controllers/MovieCatalogController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../movie-rating-data-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../movie-rating-data-service/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../service-discovery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../service-discovery/.idea/workspace.xml" afterDir="false" />
@@ -46,29 +41,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.MovieInfoServiceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/marziemansoori/Documents/Java/movie-app/movie-info-service",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.MovieInfoServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/marziemansoori/Documents/Java/movie-app/movie-info-service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MovieInfoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="movie-info-service" />
@@ -95,6 +90,7 @@
       <updated>1711100539186</updated>
       <workItem from="1711100540224" duration="553000" />
       <workItem from="1711101884766" duration="6508000" />
+      <workItem from="1711616731766" duration="875000" />
     </task>
     <servers />
   </component>
